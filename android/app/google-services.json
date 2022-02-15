@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192868343937",
+    "project_id": "teste-de-dominio",
+    "storage_bucket": "teste-de-dominio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192868343937:android:f1054eda42db9ffc60ad80",
+        "android_client_info": {
+          "package_name": "com.example.teste_de_dominio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192868343937-5qpjfcqa71c48fpbev992h3v658k4r9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh5CfTm413UkX-NMvo1jSKzFCvAdEUUTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192868343937-5qpjfcqa71c48fpbev992h3v658k4r9c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
